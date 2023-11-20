@@ -1,0 +1,2 @@
+30_DaysOf_Javascript
+I am adding the javascript exercises I did for 30 days. Asabeneh's repository was used for this work. His repository's link is: https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master
